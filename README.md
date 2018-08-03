@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 3, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Christian Burell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I created a movie datebase that allows you to search movies and find out information about them.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cab16h.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Ajax allows the information to load immediately wihtout having to go to another page.)
+2. (Json is used to transmit date through a server and applications.)
+3. (I learned how to build a website application using an API.)
